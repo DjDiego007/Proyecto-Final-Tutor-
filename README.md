@@ -11,7 +11,7 @@ Este proyecto consiste en un tutor inteligente basado en Large Language Models (
 
 ## 🛠️ Tecnologías
 * **Python 3.12+**
-* **OpenAI API (GPT-4o)**
+* **OpenAI API (GPT-4o-mini)**
 * **Python-dotenv**: Para la gestión segura de llaves de API.
 
 ## 📦 Configuración
